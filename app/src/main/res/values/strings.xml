@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A3_2P</string>
+    <string name="strMiles">Miles</string>
+    <string name="strFeet">Feet</string>
+    <string name="strInches">Inches</string>
+    <string name="strConvert">Convert</string>
+    <string name="strZero">0</string>
+    <string name="strInMetres">Show in Metres?</string>
+</resources>
