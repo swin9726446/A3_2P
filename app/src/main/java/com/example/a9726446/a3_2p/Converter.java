@@ -31,7 +31,7 @@ class Converter {
             */
 
             if (isMetres){
-                result *= 100;
+                result /= 100;
             }
 
             return new DecimalFormat("##.###").format(result) + (isMetres ? " m" : " cm");

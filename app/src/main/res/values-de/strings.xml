@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A3_2P</string>
+    <string name="strMiles">Meile</string>
+    <string name="strFeet">Fuß</string>
+    <string name="strInches">Zoll</string>
+    <string name="strConvert">Konvertieren</string>
+    <string name="strInMetres">Zeigen in Metern?</string>
+</resources>
