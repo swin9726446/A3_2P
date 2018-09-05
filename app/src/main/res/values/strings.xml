@@ -4,6 +4,6 @@
     <string name="strFeet">Feet</string>
     <string name="strInches">Inches</string>
     <string name="strConvert">Convert</string>
-    <string name="strZero">0</string>
+    <string name="strZero" translatable="false">0</string>
     <string name="strInMetres">Show in Metres?</string>
 </resources>
